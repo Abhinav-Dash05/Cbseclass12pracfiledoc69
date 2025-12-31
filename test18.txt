@@ -1,0 +1,10 @@
+Hello world!
+This is a sample text file.
+Each line is read one by one.
+Python makes file handling easy.
+Errors are part of learning.
+Good code is simple and readable.
+Debugging improves logic.
+Take breaks when your brain feels fried.
+Practice makes programs better.
+End of file.
